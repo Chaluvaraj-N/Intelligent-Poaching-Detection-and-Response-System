@@ -1,0 +1,2 @@
+# Intelligent-Poaching-Detection-and-Response-System
+Intelligent Poaching Detection and Response System is an AI-powered solution that uses drone and surveillance video footage to detect illegal poaching activities. Using a YOLO-based object detection model, it identifies humans, animals, and weapons in restricted forest areas and sends automated email alerts with evidence images for quick response.
